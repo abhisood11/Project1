@@ -19,10 +19,3 @@ Gearbest is a multinational retailer of electronic  products. Featuring nearly 3
 2. Product Discovery Page
 3. Product Cart and Checkout Page
 4. Payment gateway Integration 
-
-## Try it out locally
-This is a simple project. You can use any server to serve up the html pages. Once the server is runnning just go to the localhost link the server provides.
-
-
-
-
