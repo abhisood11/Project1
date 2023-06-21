@@ -18,4 +18,4 @@ Gearbest is a multinational retailer of electronic  products. Featuring nearly 3
 1. Signin/Signup with Authenticate 
 2. Product Discovery Page
 3. Product Cart and Checkout Page
-4. Payment gateway Integration 
+4. Payment Gateway Integration 
